@@ -1,2 +1,4 @@
 1. Creación de progreso.txt
 2. Se ha realizado el avance de primera rama para cada uno de los integrantes
+3. Se ha creado la segunda rama.
+4. Se ha creado la tercer rama y añadido el LOG.
